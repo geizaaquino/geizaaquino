@@ -1,10 +1,10 @@
-###Projetos:
+### Projetos:
 
 ### https://portifolio-antonia.geizaaquino.repl.co/
 Portifólio 
 
-Modelo de site de pizzaria 
-###https://projetomodelopizzaria.netlify.app/#
+## Modelo de site de pizzaria 
+### https://projetomodelopizzaria.netlify.app/#
 
 
 <!--
