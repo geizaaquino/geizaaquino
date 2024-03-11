@@ -1,83 +1,38 @@
-### Projetos:
+# Geiza Aquino
 
-### https://portifolio-antonia.geizaaquino.repl.co/
-Portifólio 
+### Olá, seja bem-vindo(a) ao meu GitHub! 😊
 
-## Modelo de site de pizzaria 
-### https://projetomodelopizzaria.netlify.app/#
+Eu sou a Geiza Aquino. Sou desenvolvedora e gosto muito de compartilhar meu conhecimento e aprendizado.
 
+Atualmente estou estudando Java e Python.
 
-<!--
-**geizaaquino/geizaaquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 Entre em contato comigo pelo e-mail: geizaaquino@hotmail.com
 
-Here are some ideas to get you started:
+## Projetos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Antonia
-### Olá, seja bem vindo(a) ao meu GitHub😊😉
+- [Portfólio](https://portifolio-antonia.geizaaquino.repl.co/)
 
- 😙 Atualmente estudando Java e python<br>
-  📧 Contate-me no email: geizaaquino@hotmail.com
-  <div>
-  
-  <h1 align="center">
-    Oi Tudo bem? Eu sou a 
-    <a href="https://www.linkedin.com/in/geiza-aquino-91a9aa8a/">Antonia Geiza 😃️</a>
-  </h1>
-  
-  <p align="center">
-    Sou Desenvolvedora e gosto muito de compartilhar meu conhecimento e aprendizado 
-      
- 
-  </p>
-  
-</div>
+- [Modelo de site de pizzaria](https://projetomodelopizzaria.netlify.app/#)
+
+## Tecnologias que trabalho:
 
 <div align="center">
-  <a href="https://github.com/geizaaquino/">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=geizaaquino&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geizaaquino&theme=dracula&hide_border=false&layout=compact"/>
-  </a>
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Python" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
 
+## Entre em contato:
 
+- [Instagram](https://www.instagram.com/geizaaquino1977/)
+- [LinkedIn](https://www.linkedin.com/in/geiza-aquino-91a9aa8a/)
+- Email: antoniageiza1977@gmail.com
 
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
-<div align="center" valign="top"><br>
-  
- 
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Python" height="40" width="45" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
- <img align="center" alt="Java" height="45" width="55" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-          
- ##          
-      
-<div align="center"> 
- 
- <a href="https://www.instagram.com/geizaaquino1977/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/geiza-aquino-91a9aa8a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:antoniageiza1977@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-<div align="center">
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
