@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Antonia
-### Olá?😊😉
+### Olá, seja bem vindo(a) ao meu GitHub😊😉
 
- 😙 Atualmente estudando Javascript<br>
+ 😙 Atualmente estudando Java e python<br>
   📧 Contate-me no email: geizaaquino@hotmail.com
   <div>
   
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   </h1>
   
   <p align="center">
-    Sou Desenvolvedora Front End e gosto muito de compartilhar meu conhecimento e aprendizado 
+    Sou Desenvolvedora e gosto muito de compartilhar meu conhecimento e aprendizado 
       
  
   </p>
